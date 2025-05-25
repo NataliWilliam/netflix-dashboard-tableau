@@ -6,8 +6,9 @@ This project is an **interactive data visualization dashboard** built using **Ta
 
 Link to the interactive dashboard : https://public.tableau.com/views/Netflix-Interactive-Dash/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
+![Netflix Logo](netflix-logo.jpg)
 
-## 🖼️ Dashboard Preview
+
 ## 📍 Netflix Dashboard Preview
 
 ![Netflix Dashboard Preview](Dash.png)
