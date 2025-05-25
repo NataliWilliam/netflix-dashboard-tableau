@@ -9,8 +9,6 @@ Link to the interactive dashboard : https://public.tableau.com/views/Netflix-Int
 
 ## 🖼️ Dashboard Preview
 
-> 📌 Replace this image with a screenshot of your published dashboard.
-
 ```
 📍 IMAGE PLACEHOLDER
 [Netflix Dashboard Preview](Dash.png)
