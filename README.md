@@ -4,8 +4,8 @@
 
 This project is an **interactive data visualization dashboard** built using **Tableau** that explores the Netflix catalog from a dataset of movies and TV shows available on the platform.
 
-[Netflix Dashboard Preview](netflix-logo.png)
-
+[Netflix Dashboard Preview](netflix-logo.jpd)
+Link to the interactive dashboard : https://public.tableau.com/views/Netflix-Interactive-Dash/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## 🖼️ Dashboard Preview
