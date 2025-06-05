@@ -59,8 +59,8 @@ Link to the interactive dashboard : https://public.tableau.com/views/Netflix-Int
 
 ### 🔹 **Option 1: Online (Tableau Public)**
 
-_(if uploaded there)_  
 Visit the public link and explore directly in your browser.
+https://public.tableau.com/views/Netflix-Interactive-Dash/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### 🔹 **Option 2: Desktop (Tableau Public)**
 
