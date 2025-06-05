@@ -22,22 +22,22 @@ Link to the interactive dashboard : https://public.tableau.com/views/Netflix-Int
 
 | ❓ Question | ✅ These questions are **answered visually** in the dashboard.
 
-| What are the most common genres on Netflix?
+1) What are the most common genres on Netflix?
 | [Top 10 Genre Bar Chart](10-Genre-Bar.png)
 
-| Are there more movies or TV shows?
+2) Are there more movies or TV shows?
 | [Pie Chart: Movie vs TV Show](Pie-Chart.png)
 
-| Which countries have the most Netflix content?
+3) Which countries have the most Netflix content?
 | [World Map: Titles by Country](World-Map.png)
 
-| What content ratings are most frequent?
+4) What content ratings are most frequent?
 | [Ratings Distribution Bar Chart](Ratings-Distribution.png)
 
-| How has content availability changed over time?
+5) How has content availability changed over time?
 | [Area Chart by Year](Area-Chart.png)
 
-| What are the details of a specific movie/show?
+6) What are the details of a specific movie/show?
 | [Title Info Panel](Title-Info-Panel-1.png)
 | [Title Info Panel](Title-Info-Panel-2.png)
 
